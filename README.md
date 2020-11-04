@@ -9,7 +9,7 @@ I am currently a sophomore at Farmington High School(FHS class of 2023!) in Conn
 - 💬 Ask me about anything Competitive Programming related and I will try my best to answer! 
 - 📫 How to reach me: skasinad@gmail.com is the best way to reach out to me as I am more active on my emails
 - 😄 Pronouns: He/Him/His 
-- ⚡ Dream Company: Either Nike or any tech startup company 
+- ⚡ Plans after High School: I am interested to go to college and major in Electrical Engineering and Computer Science. Eventually I want to become a Machine Learning Engineer and work for a good company.  
 
 
 
