@@ -10,6 +10,8 @@ I am currently a sophomore at Farmington High School(FHS class of 2023!) in Conn
 - 📫 How to reach me: skasinad@gmail.com is the best way to reach out to me as I am more active on my emails
 - 😄 Pronouns: He/Him/His 
 - ⚡ Plans after High School: I am interested to go to college and major in Electrical Engineering and Computer Science. Eventually I want to become a Machine Learning Engineer and work for a good company.  
+Codewars profile(More Active on Codewars): https://www.codewars.com/users/KasinadhuniProgrammer 
+CodeForces profile(Not very active on CodeForces):https://codeforces.com/profile/Kasinadhuni
 
 
 
