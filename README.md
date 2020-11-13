@@ -2,16 +2,12 @@
 My name is Satvik Kasinadhuni, welcome to my GitHub! Over here, you will find all my code to the projects I work on either myself or with a team.  
 
 ### About me
-I am currently a sophomore at Farmington High School(FHS class of 2023!) in Connecticut, United States of America. I am an aspiring Mechanical Engineer and a passionate competitive programmer. My strongest programming languages are C++ and Java. I know how to code in Python but I wouldn't call it one of my strongest. I use JavaScript when I develop websites but JavaScript is also not my strongest. I also LOVE Algorithms and Data Structures. After High School I want to go to college and pursue a Bachelor of Science in Mechanical Engineering. 
+I am currently a sophomore at Farmington High School(FHS class of 2023!) in Connecticut, United States of America. I am an aspiring Mechanical Engineer and am very passionate for Engineering. In my free time I like to develop full stack web applications, go biking, and play video games.
 
 - 🔭 I’m currently working on SoftAce, a platform for software engineers to host remote coding interviews or mock interviews.  
-- 💬 Ask me about anything Competitive Programming related and I will try my best to answer! 
 - 📫 How to reach me: skasinad@gmail.com is the best way to reach out to me as I am more active on my emails
 - 😄 Pronouns: He/Him/His 
 - ⚡ Plans after High School: I am interested to go to college and pursue a Bachelor of Science in Mechanical Engineering. Eventually I want to become a Mechanical Engineer and work for a good company.  
-- Codewars profile(More Active on Codewars): https://www.codewars.com/users/KasinadhuniProgrammer 
-- CodeForces profile(Not very active on CodeForces):https://codeforces.com/profile/Kasinadhuni
-
 
 
 
