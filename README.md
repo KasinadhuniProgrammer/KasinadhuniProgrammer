@@ -5,13 +5,13 @@ I am currently a High School Sophomore and a Full Stack Developer 🖥️. You w
 ## Technical Skills 💻
 - React.js 
 - Firebase
+- Docker 
 - Kubernetes 
 - Git
 - JavaScript 
-- C++ 
-- Python 
+- C++
+- Python
 - Java
-- Microsoft Excel
 
 ## Work Experience 💼
 - iStart Valley: High School Intern 
