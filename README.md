@@ -1,4 +1,4 @@
-## Hey there! I am Satvik Kasinadhuni
+## Hey there! I am Satvik Kasinadhuni 
 I am currently a High School Sophomore and a Full Stack Developer 🖥️. You will find all the code to my good coding projects that I am working on or have worked on, over here on this GitHub. So yeah, welcome to my office on the web 😁!
 
 
