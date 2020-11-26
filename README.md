@@ -10,8 +10,6 @@ I am currently a High School Sophomore and a Full Stack Developer 🖥️. You w
 - Git
 - JavaScript 
 - C++
-- Python
-- Java
 
 ## Work Experience 💼
 - iStart Valley: High School Intern 
