@@ -28,6 +28,8 @@ I am currently a High School Sophomore and a Full Stack Developer 🖥️. You w
 - Basketball 	🏀
 - Golf ⛳
 
+## Connect with me!
+- [Personal Website](https://kasinadhuniprogrammer.github.io/Personal-Website/)
 
 
 
