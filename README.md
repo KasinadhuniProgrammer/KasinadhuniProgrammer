@@ -1,5 +1,5 @@
 ## Hey there! I am Satvik Kasinadhuni 
-I am currently a High School Sophomore 👨‍🎓, a Full Stack Developer 💻, and an Aspiring Mechatronics Engineer 🔌. I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, and play video games 🎮!
+I am currently a High School Sophomore 👨‍🎓, a Full Stack Developer 💻, and an Aspiring Machine Learning Engineer. I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, and play video games 🎮! I am interested to major in Electrical Engineering 🔌 in college. 
 
 
 ## Technical Skills 💻
