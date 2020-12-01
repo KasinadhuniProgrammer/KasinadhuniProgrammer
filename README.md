@@ -33,7 +33,6 @@ I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engi
 
 ## Connect with me!
 - [Personal Website](https://kasinadhuniprogrammer.github.io/Personal-Website/)
-- [Linkedin](www.linkedin.com/in/satvik-kasinadhuni)
 
 
 
