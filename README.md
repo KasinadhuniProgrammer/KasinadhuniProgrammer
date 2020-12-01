@@ -1,15 +1,15 @@
 ## Hey there! I am Satvik Kasinadhuni 
-I am currently a High School Sophomore 👨‍🎓, a JS Developer 💻, and an Aspiring Machine Learning Engineer. I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, and play video games 🎮! I am interested to major in Electrical Engineering 🔌 in college. 
+I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am interested to major in Electrical Engineering 🔌 in college.
 
 
 ## Technical Skills 💻
 - React.js
 - Node.js
+- JavaScript
 - Firebase
 - SQL
 - Docker 
 - Git
-- JavaScript 
 - C++
 - Java
 - Python
@@ -21,7 +21,7 @@ I am currently a High School Sophomore 👨‍🎓, a JS Developer 💻, and an 
 - TRUMPF: Production Engineering Externship(Job Shadow)
 
 ## Extracurricular Activities 📚
-- First Tech Challenge 
+- First Tech Challenge(FTC team 12923) 
 - Hack Club 
 - Hackathons 
 - Golf ⛳
