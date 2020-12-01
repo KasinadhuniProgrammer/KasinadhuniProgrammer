@@ -12,6 +12,7 @@ I am currently a High School Sophomore 👨‍🎓, a JS Developer 💻, and an 
 - JavaScript 
 - C++
 - Java
+- Python
 - Computer-aided design 
 - Autodesk Inventor
 
