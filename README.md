@@ -1,5 +1,5 @@
 ## Hey there! I am Satvik Kasinadhuni 
-I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am interested to major in Electrical Engineering 🔌 in college.
+I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am interested to major in Mechanical Engineering 🔧 in college.
 
 
 ## Technical Skills 💻
