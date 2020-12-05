@@ -7,7 +7,6 @@ I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engi
 - Node.js
 - JavaScript
 - Firebase
-- SQL
 - Docker 
 - Git
 - C++
