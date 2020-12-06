@@ -1,5 +1,9 @@
 ## Hey there! I am Satvik Kasinadhuni 
-I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am interested to major in Mechanical Engineering 🔧 and Computer Science 💻 in college.
+I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engineering 🧑‍🔧! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! 
+
+
+## Things I work with 
+I am mainly a JavaScript Developer, but I have also worked with Python, C++, and Java! I am very strong with React.js, Firebase, and Node.js. I also know how to use Git and Docker.
 
 
 ## Technical Skills 💻
@@ -15,23 +19,12 @@ I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engi
 - Computer-aided design 
 - Autodesk Inventor
 
-## Work Experience 💼
-- iStart Valley: High School Intern 
-- TRUMPF: Production Engineering Externship(Job Shadow)
 
 ## Extracurricular Activities 📚
 - First Tech Challenge(FTC team 12923) 
 - Hack Club 
 - Hackathons 
-- Golf ⛳
 
-## Favorite Sports 
-- Cricket 🏏
-- Basketball 	🏀
-- Golf ⛳
-
-## Connect with me!
-- [Personal Website](https://kasinadhuniprogrammer.github.io/Personal-Website/)
 
 
 
