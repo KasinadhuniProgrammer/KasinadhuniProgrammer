@@ -6,13 +6,11 @@ I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engi
 ## Technical Skills 💻
 - Computer-aided design 
 - Autodesk Inventor
+- Microsoft Excel
 - React.js
 - JavaScript
 - Docker 
 - Git
-- C++
-- Java
-- Python
 
 
 ## Extracurricular Activities 📚
