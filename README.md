@@ -20,9 +20,15 @@ I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engi
 - Hack Club 
 - Hackathons 
 
-## Software Projects 
+## Side Projects 
 - Personal Website(deployed)
 - Satviks Slack(undeployed)
+- VikkCar Design Project
+
+## Some of my Random Dreams I have
+- Study Mechanical Engineering at the University of Texas at Austin 🏫
+- Become a Mechanical Engineer at Tesla 🔧
+- Run my own online side business 🖥️
 
 
 
