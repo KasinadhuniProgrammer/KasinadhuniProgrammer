@@ -1,7 +1,7 @@
 ## Hey there! I am Satvik Kasinadhuni 
 [My Website](https://kasinadhuniprogrammer.github.io/Personal-Website/)
 
-I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineering 🧑‍🔧 and Computer Programming 💻! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am a hobbyist Frontend Developer, and an aspiring Data Scientist!!
+I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineering 🧑‍🔧 and Computer Science 💻! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am a hobbyist Frontend Developer, and an aspiring Data Scientist!!
 
 
 
