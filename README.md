@@ -1,18 +1,22 @@
 ## Hey there! I am Satvik Kasinadhuni 
 [My Website](https://kasinadhuniprogrammer.github.io/Personal-Website/)
 
-I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engineering 🧑‍🔧! In my free time, I like to CAD, watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am a hobbyist Frontend Developer, and an Aspiring Mechanical Engineer!
+I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineering 🧑‍🔧 and Computer Programming 💻! In my free time, I like to watch and play cricket 🏏, bike around my neighborhood 🚲, play video games 🎮, and write code 💻! I am a hobbyist Frontend Developer, and an aspiring Data Scientist!!
 
 
 
 ## Technical Skills 💻
-- Computer-aided design 
-- Autodesk Inventor
-- Microsoft Excel
 - React.js
 - JavaScript
-- Docker 
+- Firebase
+- Node.js 
+- SQL 
+- Python
+- Java
+- C++
 - Git
+- Docker
+- Microsoft Excel
 
 
 ## Extracurricular Activities 📚
@@ -23,12 +27,8 @@ I am currently a High School Sophomore 👨‍🎓, and I am passionate for Engi
 ## Side Projects 
 - Personal Website(deployed)
 - Satviks Slack(undeployed)
-- VikkCar Design Project
+- SoftAce(undeployed)
 
-## Some of my Random Dreams I have
-- Study Mechanical Engineering at the University of Texas at Austin 🏫
-- Become a Mechanical Engineer at Tesla 🔧
-- Run my own online side business 🖥️
 
 
 
