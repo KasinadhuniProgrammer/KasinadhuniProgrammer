@@ -25,12 +25,6 @@ I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineer
 - Hackathons 
 
 
-## Some Random Facts About Me 
-- My dream job is to be a Solutions Architect at Google
-- My favorite sport is Cricket 
-- I am part of Hack Club
-- My favorite programming language is JavaScript(JS > Python, it's just a fact)
-
 
 <!--
 **KasinadhuniProgrammer/KasinadhuniProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
