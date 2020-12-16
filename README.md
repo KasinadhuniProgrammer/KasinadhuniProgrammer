@@ -24,11 +24,6 @@ I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineer
 - Hack Club 
 - Hackathons 
 
-## Side Projects 
-- Personal Website(deployed)
-- Satviks Slack(undeployed)
-- SoftAce(undeployed)
-
 
 ## Some Random Facts About Me 
 - My dream job is to be a Solutions Architect at Google
