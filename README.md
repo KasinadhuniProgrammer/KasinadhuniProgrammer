@@ -30,7 +30,11 @@ I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineer
 - SoftAce(undeployed)
 
 
-
+## Some Random Facts About Me 
+- My dream job is to be a Solutions Architect at Google
+- My favorite sport is Cricket 
+- I am part of Hack Club
+- My favorite programming language is JavaScript(JS > Python, it's just a fact)
 
 
 <!--
