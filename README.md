@@ -8,14 +8,11 @@ I am currently a High School Sophomore 👨‍🎓, I am passionate for Engineer
 - React.js
 - JavaScript
 - Firebase
-- Node.js 
 - SQL 
 - Python
 - Java
 - C++
 - Git
-- Docker
-- Microsoft Excel
 
 
 ## Extracurricular Activities 📚
