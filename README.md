@@ -1,7 +1,7 @@
 ## Hello 👋
 [Portfolio](https://www.satvik.site) | [Linkedin](https://www.linkedin.com/in/satvik-kasinadhuni) | [Twitter](https://twitter.com/ChubbyIndianBoy)
 
-I am Satvik 🧑, currently a high school sophomore 🎓, and am super interested in Software Development 💻, Cyber Security, and startups 🏢!
+I am Satvik 🧑, currently a high school sophomore 🎓, and a person who is super interested in Software Development 💻, Cyber Security, and startups 🏢!
 
 Most of my work is done with JavaScript, but I have also worked with Python 🐍, Java ☕, C#, and C++!
 
