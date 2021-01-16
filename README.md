@@ -9,6 +9,12 @@ I am currently working on two projects, [MechLevels](https://github.com/Kasinadh
 
 When I am not building crazy projects, or just learning more about Computer Science and Software Development in general, you will find me watching too much Clement Mihailescu on Youtube 📺, or playing too much SSBU 🕹️.
 
+## Random Facts about me!
+- Favorite Programming Language(s): Python and JavaScript, I cannot choose one
+- Dream Job: Cyber Security Engineer at Lockheed Martin
+- Dream College: Worcester Polytechnic Institute 
+
+
 
 
 
