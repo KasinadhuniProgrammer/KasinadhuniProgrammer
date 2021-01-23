@@ -7,8 +7,7 @@ Most of my work here on my GitHub is done in JavaScript, but I also have experie
 
 I am currently working on two projects, [MechLevels](https://github.com/KasinadhuniProgrammer/MechLevels), and Resumer.
 
-When I am not building crazy projects, or just learning more about Computer Science and Software Development in general, you will find me watching too much Clement Mihailescu on Youtube 📺, or playing too much SSBU 🕹️.
-
+Apart from learning and practicing Software Engineering, I also am learning about Biomedical Engineering and trying out what that is like also, as I am always learning about different fields in Engineering.
 
 
 
