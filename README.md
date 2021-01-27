@@ -1,7 +1,7 @@
 ## Hello 👋
 [Portfolio](https://www.satvik.site) | [Linkedin](https://www.linkedin.com/in/satvik-kasinadhuni) | [Twitter](https://twitter.com/ChubbyIndianBoy)
 
-I am Satvik 🧑, currently a high school sophomore 🎓, and a person who is super interested in Software Development 💻 and Ethical Hacking ⌨️!
+I am Satvik 🧑, currently a high school sophomore 🎓, and a person who is super interested in Software Development 💻!
 
 Most of my work here on my GitHub is done in JavaScript, but I also have experience developing Tcl/Tk applications in Python, and am also fluent in the Java programming language.
 
