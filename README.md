@@ -1,13 +1,19 @@
-## Hello 👋
-[Portfolio](https://www.satvik.site) | [Linkedin](https://www.linkedin.com/in/satvik-kasinadhuni) | [Twitter](https://twitter.com/ChubbyIndianBoy)
+## Hey There 👋, I'm [Satvik!](https://github.com/KasinadhuniProgrammer/)
 
-I am Satvik 🧑, currently a high school sophomore 🎓, and a person who is super interested in Software Development 💻!
+![](https://komarev.com/ghpvc/?username=KasinadhuniProgrammer&color=green)
+&nbsp; ![GitHub](https://img.shields.io/github/followers/KasinadhuniProgrammer?label=Follow%20Me%21&style=social)
 
-Most of my work here on my GitHub is done in JavaScript, but I also have experience developing Tcl/Tk applications in Python, and am also fluent in the Java programming language.
+I am currently a Sophomore at Farmington High School, passionate for Software Engineering💻!
+Most of my work is done using JavaScript, but I also have experience with HTML, CSS, Python, Java, and many more!
 
-I am currently working on two projects, [MechLevels](https://github.com/KasinadhuniProgrammer/MechLevels), and Resumer.
+### My Developer Stats:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasinadhuniProgrammer&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-
+### My Setup
+- Computer: Lenovo Yoga 730-15 
+- OS: Usually Windows but I somtimes use Ubuntu
+- Code Editor: Visual Studio Code
 
 
 
