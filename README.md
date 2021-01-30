@@ -10,6 +10,13 @@ Most of my work is done using JavaScript, but I also have experience with HTML, 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasinadhuniProgrammer&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+### Top Skills 
+- React.js 
+- Firebase
+- JavaScript
+- Java
+- Git
+
 ### My Setup
 - Computer: Lenovo Yoga 730-15 
 - OS: Usually Windows but I somtimes use Ubuntu
