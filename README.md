@@ -22,12 +22,6 @@ Most of my work is done using JavaScript, but I also have experience with HTML, 
 - OS: Usually Windows but I somtimes use Ubuntu
 - Code Editor: Visual Studio Code
 
-### Dreams and Goals I have
-- Get a 3.8 GPA in High School
-- Pursue a B.S. in Computer Science at Stanford University 
-- Become a Software Engineer at Google
-- Purchase my dream car, an Audi Q5
-
 
 <!--
 **KasinadhuniProgrammer/KasinadhuniProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
