@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=KasinadhuniProgrammer&color=green)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/KasinadhuniProgrammer?label=Follow%20Me%21&style=social)
 
-I am currently a Sophomore at Farmington High School, passionate for Software Engineering💻!
-Most of my work is done using JavaScript, but I also have experience with HTML, CSS, Python, Java, and many more!
+I am Satvik Kasinadhuni, a Software Engineer, and a Sophomore at Farmington High School.
 
 ### My Developer Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&show_icons=true&hide_border=true" />
