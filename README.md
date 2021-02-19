@@ -18,8 +18,9 @@ Most of my work is done using JavaScript, but I also have experience with HTML, 
 - Git
 
 ### My Setup
-- Computer: Lenovo Yoga 730-15 
-- OS: Usually Windows but I somtimes use Ubuntu
+- Desktop: iMac 
+- Laptop: Lenovo Yoga 730-15
+- Operating System: Most of the time macOS unless if I am using my laptop
 - Code Editor: Visual Studio Code
 
 
