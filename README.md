@@ -13,7 +13,7 @@ I am Satvik Kasinadhuni, an Engineer, an aviation enthusiast, and a Sophomore at
 - React.js
 - Firebase
 - JavaScript
-- Java
+- C++
 
 ### My Setup
 - Desktop: iMac 
