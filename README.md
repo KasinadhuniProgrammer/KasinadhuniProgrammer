@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=KasinadhuniProgrammer&color=green)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/KasinadhuniProgrammer?label=Follow%20Me%21&style=social)
 
-I am Satvik Kasinadhuni, a Software Engineer, an aviation enthusiast, and a Sophomore at Farmington High School.
+I am Satvik Kasinadhuni, an Engineer, an aviation enthusiast, and a Sophomore at Farmington High School.
 
 ### My Developer Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&show_icons=true&hide_border=true" />
