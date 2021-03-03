@@ -10,15 +10,15 @@ I am Satvik Kasinadhuni, a High School Student, a hobbyist developer, and an Asp
 - 🎯 ***I’m currently focusing more on my grades and trying to get them as high as I can***</br></br>
 - 🥅 ***My goal College: Georgia Tech: Daniel Guggenheim School of Aerospace Engineering***</br></br>
 
-### ⚡ Github Stats:- 
+### ⚡ Developer Stats: 
 # [![Satvik Kasinadhuni stats](https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&theme=algolia)](https://github.com/KasinadhuniProgrammer/github-readme-stats)
 </br>
 
-### ⚡ Language preferred:- 
+### ⚡ Languages I use more on projects:
 # [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasinadhuniProgrammer&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/KasinadhuniProgrammer/github-readme-stats)
 </br>
 
-### ⚡ My Streak:-
+### ⚡ My GitHub Streak:
 # [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KasinadhuniProgrammer&theme=tokyonight)](https://github.com/KasinadhuniProgrammer/github-readme-streak-stats)
 
 <!--
