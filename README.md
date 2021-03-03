@@ -9,7 +9,6 @@ I am Satvik Kasinadhuni, a High School Student, a hobbyist developer, and an Asp
 - 🌱 ***I'm currently pursuing an internship at IpserLab, and in my free time I learn more about Aircrafts***</br></br>
 - 🎯 ***I'm currently focusing more on my grades and trying to get them as high as I can***</br></br>
 - 🥅 ***Dream College: Massachusetts Institute of Technology***</br></br>
-- 🧑‍💼 ***Dream Job: Aerospace Engineer at MIT Lincoln Laboratory***</br></br>
 
 ### ⚡ Developer Stats: 
 # [![Satvik Kasinadhuni stats](https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&theme=algolia)](https://github.com/KasinadhuniProgrammer/github-readme-stats)
