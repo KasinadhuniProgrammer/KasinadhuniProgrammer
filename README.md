@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=KasinadhuniProgrammer&color=green)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/KasinadhuniProgrammer?label=Follow%20Me%21&style=social)
 
-I am Satvik Kasinadhuni, a High School Student, a passionate developer, and a Software Engineer Inter @IpserLab
+I am Satvik Kasinadhuni, a High School Student, a passionate developer, and a Software Engineer Intern @ipserlab
 
 ### ⚡ Developer Stats: 
 # [![Satvik Kasinadhuni stats](https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&theme=algolia)](https://github.com/KasinadhuniProgrammer/github-readme-stats)
