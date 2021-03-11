@@ -13,5 +13,10 @@ I am a Software Developer. I am currently working as a Software Engineer Intern 
 # [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasinadhuniProgrammer&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/KasinadhuniProgrammer/github-readme-stats)
 </br>
 
+### ⚡ Some goals I have in life(career wise):
+- Pursue a BS in Computer Science at San Jose State University 
+- One day qualify for the Google Code Jam world championship
+- Work as a Software Engineer for a company in Silicon Valley
+
 <!--
 **KasinadhuniProgrammer/KasinadhuniProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
