@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=KasinadhuniProgrammer&color=green)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/KasinadhuniProgrammer?label=Follow%20Me%21&style=social)
 
-I am a Software Developer. I am currently working as a Software Engineer Intern at IpserLab, which is a startup company based in Mountain View, California.
-
 ### ⚡ Developer Stats: 
 # [![Satvik Kasinadhuni stats](https://github-readme-stats.vercel.app/api?username=KasinadhuniProgrammer&theme=algolia)](https://github.com/KasinadhuniProgrammer/github-readme-stats)
 </br>
