@@ -1,7 +1,4 @@
 ## Hey There, I am [Satvik](https://kasinadhuniprogrammer.github.io/Portfolio/)👋
-
-I am a High School Student, a Frontend Developer at IpserLab, and an Ethical Hacker.
-
 ![](https://komarev.com/ghpvc/?username=KasinadhuniProgrammer&color=green)
 &nbsp; ![GitHub](https://img.shields.io/github/followers/KasinadhuniProgrammer?label=Follow%20Me%21&style=social)
 
