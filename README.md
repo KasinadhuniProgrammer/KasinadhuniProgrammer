@@ -14,7 +14,7 @@
 - 💻 I’m currently working at IpserLab as a Software Engineer Intern
 - 🌱 I’m currently learning Ethical Hacking
 - 💬 Ask me about anything related to programming and I will try my best to answer!
-- 📫 How to reach me: [Satvik Kasinadhuni](https://www.linkedin.com/satvik-kasinadhuni/) 
+- 📫 How to learn more about me: [Portfolio](https://kasinadhuniprogrammer.github.io/Portfolio/) 
 - 📝[Resume](https://drive.google.com/file/d/1kLYXK7uqr-xF5mQanljZFQH3NbMInn2B/view?usp=sharing) 
 <!--
 **KasinadhuniProgrammer/KasinadhuniProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
