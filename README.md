@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working at IpserLab as a Software Engineer Intern
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything related to programming and I will try my best to answer!
 - 📫 How to learn more about me: [Portfolio](https://kasinadhuniprogrammer.github.io/Portfolio/) 
 - 📝[Resume](https://drive.google.com/file/d/1kLYXK7uqr-xF5mQanljZFQH3NbMInn2B/view?usp=sharing) 
