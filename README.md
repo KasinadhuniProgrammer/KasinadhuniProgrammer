@@ -11,7 +11,7 @@
 </br>
 
 - 😄 Pronouns: He/Him
-- 💻 I’m currently working at IpserLab as a Computer Science Intern
+- 💻 I’m currently working at IpserLab as a React Developer
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything related to programming and I will try my best to answer!
 - 📫 How to learn more about me: [Portfolio](https://kasinadhuniprogrammer.github.io/Portfolio/) 
