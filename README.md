@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him
 - 💻 I’m currently working at IpserLab as a Software Engineer Intern
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning more about Redux :) 
 - 💬 Ask me about anything related to programming and I will try my best to answer!
 - 📫 How to learn more about me: [Portfolio](https://kasinadhuniprogrammer.github.io/Portfolio/) 
 <!--
